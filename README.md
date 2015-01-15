@@ -19,7 +19,7 @@ Google Glass Face Detection Demo
 ![Demo1](Demo1.jpg "Face Detection Closeup")
 ![Demo2](Demo2.jpg "Multiple Face Detection Demo")
 
-## Note and Extra Credits
+## Note
 You either need to write a voice based launcher for your glass application. Otherwise use supplementary launcher such as [launchy](https://github.com/kaze0/launchy).
 
 ## License
